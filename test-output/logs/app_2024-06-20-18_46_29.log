@@ -1,0 +1,10 @@
+2024-Jun-20 18:46:38 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-20 18:46:42 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //button[normalize-space()='Log in']]
+2024-Jun-20 18:46:44 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-20 18:46:50 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-20 18:46:54 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //button[normalize-space()='Log in']]
+2024-Jun-20 18:46:55 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-20 18:47:02 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Register']]
+2024-Jun-20 18:47:03 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //label[normalize-space()='Male']]
+2024-Jun-20 18:47:05 pm [main] INFO  com.web.actions.WebActions - Click on :
+2024-Jun-20 18:47:06 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.

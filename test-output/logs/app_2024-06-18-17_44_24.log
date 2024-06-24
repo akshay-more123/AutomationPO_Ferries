@@ -1,0 +1,4 @@
+2024-Jun-18 17:44:34 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Register']]
+2024-Jun-18 17:44:34 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //label[normalize-space()='Male']]
+2024-Jun-18 17:44:37 pm [main] INFO  com.web.actions.WebActions - Click on :
+2024-Jun-18 17:44:38 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.

@@ -1,0 +1,6 @@
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - java.lang.ClassCastException: class com.aventstack.extentreports.model.Report cannot be cast to class com.aventstack.extentreports.Writable (com.aventstack.extentreports.model.Report and com.aventstack.extentreports.Writable are in unnamed module of loader 'app')
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - java.lang.ClassCastException: class com.aventstack.extentreports.model.Report cannot be cast to class com.aventstack.extentreports.Writable (com.aventstack.extentreports.model.Report and com.aventstack.extentreports.Writable are in unnamed module of loader 'app')
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-20 10:40:06 am [main] ERROR com.web.reporting.TestListner - java.lang.ClassCastException: class com.aventstack.extentreports.model.Report cannot be cast to class com.aventstack.extentreports.Writable (com.aventstack.extentreports.model.Report and com.aventstack.extentreports.Writable are in unnamed module of loader 'app')

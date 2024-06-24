@@ -1,0 +1,6 @@
+2024-Jun-18 18:22:17 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Register']]
+2024-Jun-18 18:22:19 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-18 18:22:19 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 18:22:19 pm [main] ERROR com.web.reporting.TestListner - io.cucumber.core.exception.CucumberException: Step [the user enters the details into below fields] is defined with 1 parameters at 'com.poferries.tourist.web.stepDefinitions.Steps.the_user_enters_the_details_into_below_fields(io.cucumber.datatable.DataTable)'.
+However, the gherkin step has 0 arguments.
+Step text: the user enters the details into below fields

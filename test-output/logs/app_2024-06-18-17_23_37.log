@@ -1,0 +1,9 @@
+2024-Jun-18 17:23:56 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-18 17:23:56 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 17:23:56 pm [main] ERROR com.web.reporting.TestListner - org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 126.0.6478.62 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-S3FLF3O', ip: '192.168.1.16'
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito, â€“-disable-application-cache, --disable-default-apps, --disable-infobars, --disable-popup-blocking, --ignore-certificate-errors, --no-sandbox, --window-size=1920,1080], extensions: []}}]}]

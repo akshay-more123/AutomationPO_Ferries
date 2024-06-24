@@ -1,0 +1,2 @@
+2024-Jun-18 15:27:46 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 15:27:46 pm [main] ERROR com.web.reporting.TestListner - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null

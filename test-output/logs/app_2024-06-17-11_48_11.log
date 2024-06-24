@@ -1,0 +1,4 @@
+2024-Jun-17 11:48:13 am [main] INFO  com.web.actions.WebActions - Exception: clickElement '
+2024-Jun-17 11:48:13 am [main] INFO  com.web.actions.WebActions - Exception Log: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-Jun-17 11:48:13 am [main] INFO  com.web.actions.WebBrowserActions - Exception: CloseBrowser.
+2024-Jun-17 11:48:13 am [main] INFO  com.web.actions.WebBrowserActions - Exception Log: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null

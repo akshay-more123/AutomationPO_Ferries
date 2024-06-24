@@ -1,0 +1,3 @@
+2024-Jun-17 15:01:33 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-17 15:01:34 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //button[normalize-space()='Log in']]
+2024-Jun-17 15:01:36 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.

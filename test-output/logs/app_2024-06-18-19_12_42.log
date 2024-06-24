@@ -1,0 +1,24 @@
+2024-Jun-18 19:13:10 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-18 19:13:14 pm [main] INFO  com.web.actions.WebBrowserActions - Exception: CloseBrowser.
+2024-Jun-18 19:13:14 pm [main] INFO  com.web.actions.WebBrowserActions - Exception Log: org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [61d0841a-a7dc-411c-90bb-e969da086a9a, close {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 126.0.1, moz:accessibilityChecks: false, moz:buildID: 20240526221752, moz:debuggerAddress: 127.0.0.1:7447, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26612, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:7447/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 61d0841a-a7dc-411c-90bb-e969da086a9a
+2024-Jun-18 19:13:14 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 19:13:14 pm [main] ERROR com.web.reporting.TestListner - org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [61d0841a-a7dc-411c-90bb-e969da086a9a, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 126.0.1, moz:accessibilityChecks: false, moz:buildID: 20240526221752, moz:debuggerAddress: 127.0.0.1:7447, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26612, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:7447/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 61d0841a-a7dc-411c-90bb-e969da086a9a
+2024-Jun-18 19:13:20 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 19:13:20 pm [main] ERROR com.web.reporting.TestListner - org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Failed to decode response from marionette 
+Host info: host: 'DESKTOP-S3FLF3O', ip: '192.168.1.16'
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {}}]}]

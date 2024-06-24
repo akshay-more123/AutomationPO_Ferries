@@ -1,0 +1,12 @@
+2024-Jun-14 18:45:03 pm [main] INFO  com.driver.DriverFactory - InstantiateDriverObject Exception Log: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 125.0.6422.142 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-S3FLF3O', ip: '192.168.1.4'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications], extensions: []}}]}]
+2024-Jun-14 18:45:03 pm [main] INFO  com.driver.DriverFactory - Instantiate ChromeDriver
+2024-Jun-14 18:45:03 pm [main] INFO  com.web.actions.WebActions - Exception: clickElement '
+2024-Jun-14 18:45:03 pm [main] INFO  com.web.actions.WebActions - Exception Log: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-Jun-14 18:45:03 pm [main] INFO  com.web.actions.WebBrowserActions - Exception: CloseBrowser.
+2024-Jun-14 18:45:03 pm [main] INFO  com.web.actions.WebBrowserActions - Exception Log: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null

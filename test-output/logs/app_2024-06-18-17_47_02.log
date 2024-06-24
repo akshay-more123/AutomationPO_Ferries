@@ -1,0 +1,3 @@
+2024-Jun-18 17:47:14 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-18 17:47:14 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-18 17:47:14 pm [main] ERROR com.web.reporting.TestListner - java.lang.NullPointerException: Cannot invoke "com.poferries.tourist.web.actions.Account_Registration.NavigateToRegister()" because "this.registration" is null

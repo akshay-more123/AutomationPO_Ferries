@@ -1,0 +1,12 @@
+2024-Jun-19 15:23:14 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-19 15:23:18 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //button[normalize-space()='Log in']]
+2024-Jun-19 15:23:20 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-19 15:23:20 pm [main] ERROR com.web.reporting.TestListner - com.poferries.tourist.web.runner.RunTestNGTest
+2024-Jun-19 15:23:20 pm [main] ERROR com.web.reporting.TestListner - java.lang.AssertionError: expected [true] but found [false]
+2024-Jun-19 15:23:27 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Log in']]
+2024-Jun-19 15:23:31 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //button[normalize-space()='Log in']]
+2024-Jun-19 15:23:33 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.
+2024-Jun-19 15:23:41 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //a[normalize-space()='Register']]
+2024-Jun-19 15:23:41 pm [main] INFO  com.web.actions.WebActions - Click on :--> xpath: //label[normalize-space()='Male']]
+2024-Jun-19 15:23:44 pm [main] INFO  com.web.actions.WebActions - Click on :
+2024-Jun-19 15:23:45 pm [main] INFO  com.web.actions.WebBrowserActions - closes the currently opened browser session.

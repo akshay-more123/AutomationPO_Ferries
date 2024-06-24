@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="tests" allow-return-values="true"
+	verbose="10">
+	<listeners>
+		<listener class-name="com.web.reporting.MyListner" />
+	</listeners>
+	<test name="Bing-Search-Sample-Test">
+		<classes>
+			<class name="com.poferries.tourist.web.runner.RunTestNGTest" />
+			<class name="com.poferries.tourist.web.stepDefinitions.Steps" />
+			<class name="com.poferries.tourist.web.utilities.Seleniumdriver" />
+		</classes>
+	</test>
+</suite>

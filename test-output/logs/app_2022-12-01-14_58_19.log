@@ -1,0 +1,32 @@
+2022-Dec-01 14:59:22 PM [main] INFO  com.driver.DriverFactory - InstantiateDriverObject Exception Log: org.openqa.selenium.WebDriverException: chrome not reachable
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'POFWVDDEV-24', ip: '10.181.60.57', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	(No symbol) [0x0061F243]
+	(No symbol) [0x005A7FD1]
+	(No symbol) [0x0049CF10]
+	(No symbol) [0x00492B0A]
+	(No symbol) [0x004BF04E]
+	(No symbol) [0x004BA97C]
+	(No symbol) [0x004B82E9]
+	(No symbol) [0x004EF056]
+	(No symbol) [0x004EEB2A]
+	(No symbol) [0x004E8386]
+	(No symbol) [0x004C163C]
+	(No symbol) [0x004C269D]
+	GetHandleVerifier [0x008B9A22+2655074]
+	GetHandleVerifier [0x008ACA24+2601828]
+	GetHandleVerifier [0x006C8C0A+619850]
+	GetHandleVerifier [0x006C7830+614768]
+	(No symbol) [0x005B05FC]
+	(No symbol) [0x005B5968]
+	(No symbol) [0x005B5A55]
+	(No symbol) [0x005C051B]
+	BaseThreadInitThunk [0x77BEFEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x77E87BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77E87B8E+238]
+
+2022-Dec-01 14:59:22 PM [main] INFO  com.driver.DriverFactory - Instantiate ChromeDriver
+2022-Dec-01 14:59:23 PM [main] INFO  com.web.actions.WebBrowserActions - Exception: CloseBrowser.
+2022-Dec-01 14:59:23 PM [main] INFO  com.web.actions.WebBrowserActions - Exception Log: java.lang.NullPointerException
